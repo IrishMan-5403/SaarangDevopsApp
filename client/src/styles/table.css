@@ -1,0 +1,12 @@
+table, th, td {
+  border:1px solid black;
+}
+
+.table-container{
+    width:70%;
+    margin:auto;
+}
+
+table{
+    width:100%;
+}

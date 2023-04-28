@@ -1,0 +1,18 @@
+.Home {
+    margin-top: 40vh;
+    text-align: center;
+}
+
+.bookinglink {
+    text-decoration: none ;
+    color: black;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.bookinglink:hover {
+    background-color: black;
+    color: white;
+}
+
+
